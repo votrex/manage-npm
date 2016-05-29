@@ -1,6 +1,6 @@
 {
   "name": "manage-packages-with-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "FCC Tutorial",
   "main": "index.js",
   "scripts": {
